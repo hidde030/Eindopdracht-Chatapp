@@ -1,0 +1,11 @@
+makeing index.html in frontend
+npm i -g parcel-bundler
+
+
+server:
+
+pip install -r requirements.txt
+windows pip install pypiwin32
+
+python manage.py migrate
+python manage.py runserver

@@ -1,23 +1,26 @@
 ## Chat applicatie Django
-Django 2.1.5
-Channels 2.1.2
+[x]Django 2.1.5
+[x]Channels 2.1.2
+[x]python 3.6.6
 
-Tutorial Part 1: af
-Tutorial Part 2: af
-Tutorial Part 3: meebezig
+
 u need to install Redis for windows
 
 ```python
+cd Eindopdracth
 virtualenv env
 git bash run this ->:  source ./env/Scripts/activate
-pip install django==2.1.5
-pip install Channels==2.1.2
-cd JustChat - Django Python
+cd src
+pip install -r requirements.txt
+***for windows install : pip install pypiwin32***
 cd src/
 python manage.py migrate
 python manage.py runserver
+je laat de server runnen en gaat naar een nieuwe command line 
+cd frontend
+npm i -g parcel-bundler
+npm i
+npm start
 ```
-
-# Ik moet dit nog testen of alles werkt!
-# Op mijn eigen pc werkt 't al
-# ik wil uiteindelijk de front-end met react gaan doen:O
+Master branch -> Eindopracht-Django
+versie 1 staat in de andere branch 
