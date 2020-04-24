@@ -24,6 +24,8 @@ npm start
 ```
 Master branch -> Eindopracht-Django
 versie 1 staat in de andere branch 
+
+
 #Reflectieverslag
 In het begin vond ik het lastig hoe ik moest beginnen toen kwam ik op internet een tutorial over hoe je een simpele chat op zet.
 Toen ik dat af had ben ik verder gegaan met de front-end. Ik ben trots op mijn project.
